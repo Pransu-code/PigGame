@@ -1,1 +1,1 @@
-![Flow chart](https://ibb.co/0XhLQDL)
+![Flow chart]  https://i.postimg.cc/q7LpvQvx/pig-game-flowchart.png
