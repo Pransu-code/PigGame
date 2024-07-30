@@ -166,6 +166,14 @@ main {
   color: #c7365f;
 }
 
+.winplay{
+  font-weight: 700;
+  color: red;
+  opacity: 1;
+}
+.winner {
+  opacity: 0;
+}
 .hidden {
   display: none;
 }
